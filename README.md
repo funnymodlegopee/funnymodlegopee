@@ -1,5 +1,5 @@
 <!--
-<div align="center" ><a href="https://soyrros.github.io"><img alt="Hi, I’m 0x0." width="14%" border-radius="100%" src="https://s2.loli.net/2023/02/12/zR7PFGu14w9X8gn.jpg"/></a></div>
+<div align="center" ><a href="https://ebrahkdabri.github.io"><img alt="Hi, I’m abrAbracadabra." width="14%" border-radius="100%" src="https://s2.loli.net/2023/02/12/zR7PFGu14w9X8gn.jpg"/></a></div>
 -->
 
 ### Yoo, I’m a 👻
@@ -7,7 +7,7 @@ Don’t leave your children unattended, all unattended children will be eaten by
 
 **About**
 <!--
-<img align="right" width="50%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyrros&layout=compact&theme=buefy&hide_border=true" />
+<img align="right" width="50%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahkdabri&layout=compact&theme=buefy&hide_border=true" />
 -->
 
 - 🐟 amateur developer
@@ -25,16 +25,16 @@ Don’t leave your children unattended, all unattended children will be eaten by
 <br/>
 
 <a href="http://wpa.qq.com/msgrd?v=3&uin=121062209&site=qq&menu=yes">
-  <img align="right" alt="VIIN | QQ" width="21px" src="https://cdn.jsdelivr.net/gh/soyrros/soyrros@latest/assets/qq.svg" />
+  <img align="right" alt="VIIN | QQ" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/qq.svg" />
 </a>
 
-<a href="mailto:viinulla@gmail.com">
-  <img align="right" alt="VIIN | Gmail" width="21px" src="https://cdn.jsdelivr.net/gh/viinulla/viinulla@latest/assets/mail.svg" />
+<a href="mailto:ebrahkdabri@hotmail.com">
+  <img align="right" alt="abrAbracadabra | Mail" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/mail.svg" />
 </a>
 
 
 <!--
-**soyrros/soyrros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ebrahkdabri/ebrahkdabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
