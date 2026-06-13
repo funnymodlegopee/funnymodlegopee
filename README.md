@@ -7,7 +7,7 @@ Don’t leave your children unattended, all unattended children will be eaten by
 
 **About**
 <!--
-<img align="right" width="50%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahkdabri&layout=compact&theme=buefy&hide_border=true" />
+<img align="right" width="50%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abracadabra&layout=compact&theme=buefy&hide_border=true" />
 -->
 
 - 🐟 amateur developer
@@ -25,11 +25,11 @@ Don’t leave your children unattended, all unattended children will be eaten by
 <br/>
 
 <a href="http://wpa.qq.com/msgrd?v=3&uin=121062209&site=qq&menu=yes">
-  <img align="right" alt="VIIN | QQ" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/qq.svg" />
+  <img align="right" alt="Abracadabra | QQ" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/qq.svg" />
 </a>
 
-<a href="mailto:ebrahkdabri@hotmail.com">
-  <img align="right" alt="abrAbracadabra | Mail" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/mail.svg" />
+<a href="mailto:funnymodlegopee@hotmail.com">
+  <img align="right" alt="Abracadabra | Mail" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/mail.svg" />
 </a>
 
 
