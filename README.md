@@ -28,7 +28,7 @@ Don’t leave your children unattended, all unattended children will be eaten by
   <img align="right" alt="Abracadabra | QQ" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/qq.svg" />
 </a>
 
-<a href="mailto:funnymodlegopee@hotmail.com">
+<a href="mailto:ebrahkdabri@hotmail.com">
   <img align="right" alt="Abracadabra | Mail" width="21px" src="https://cdn.jsdelivr.net/gh/ebrahkdabri/ebrahkdabri@latest/assets/mail.svg" />
 </a>
 
